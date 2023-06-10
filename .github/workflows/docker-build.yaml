@@ -42,4 +42,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: mirajehossain/agilebd2023:latest
+          tags: tuhinsshadow/scrum-dhaka:latest
